@@ -6,10 +6,11 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 https://github.com/esmakaslioglu/kodluyoruzilkrepo.git
 
 # usage 
-(visual code içinde aç
+''' visual code içinde aç
 - linux icin:
 - cd kodluyıruzilkrepo
-- code .)
+- code .
+'''
 
 # contributing 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
