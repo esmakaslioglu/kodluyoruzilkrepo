@@ -8,8 +8,8 @@ https://github.com/esmakaslioglu/kodluyoruzilkrepo.git
 # usage 
  visual code içinde aç
 - linux icin:
-- cd kodluyıruzilkrepo
-- code .
+1. cd kodluyıruzilkrepo
+2. code .
 
 
 # contributing 
