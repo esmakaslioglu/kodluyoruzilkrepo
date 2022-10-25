@@ -11,8 +11,8 @@ windows icin:
 cd kodluyıruzilkrepo
 code .
 
-#contributing 
+# contributing 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-#licence
-![](https://choosealicense.com/licenses/mit/)
+# licence
+![MIT](https://choosealicense.com/licenses/mit/)
