@@ -6,20 +6,20 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # installation
 Öncelikle projeyi clonelayın.
-'''bash
+```bash
 
 git clone https://github.com/esmakaslioglu/kodluyoruzilkrepo.git
 
-'''
+```
 # usage 
 
  Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
  Linux için
-'''linux
+```linux
 cd kodluyıruzilkrepo
 code .
-'''
+```
 
 # contributing 
 
