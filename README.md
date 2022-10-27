@@ -11,17 +11,18 @@ git clone https://github.com/esmakaslioglu/kodluyoruzilkrepo.git
 # usage 
 
  Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+'''Linux
+Linux için
 
-Linux için:
-
-1. cd kodluyıruzilkrepo
-2. code .
-
+cd kodluyıruzilkrepo
+code .
+'''
 
 # contributing 
+'''bush
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-
+'''
 # licence
 
 [MIT](https://choosealicense.com/licenses/mit/#)
